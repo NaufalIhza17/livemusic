@@ -91,26 +91,26 @@ const Home = () => {
             What would you say<br />
             Would it be enough to make you stay<br />
             As you look to the exit<br />
-            I don't even know why I'd do this anymore<br />
-            I know there's things I should know<br /><br />
+            I don&apos;t even know why I&apos;d do this anymore<br />
+            I know there&apos;s things I should know<br /><br />
 
             <span className="text-green-700 font-medium">[instrument]</span><br /><br />
 
             <span className="text-red-700 font-medium">verse2:</span><br />
-            And I know you can't accept<br />
-            She's the love that I kept<br />
-            Scared I'll push you away<br />
+            And I know you can&apos;t accept<br />
+            She&apos;s the love that I kept<br />
+            Scared I&apos;ll push you away<br />
             But I love you everyday<br />
-            I know there's things you should know<br /><br />
+            I know there&apos;s things you should know<br /><br />
 
             <span className="text-red-700 font-medium">reff:</span><br />
-            I'm in love not because I want to<br />
-            She's become something that I got to see
-            Won't you just stick around with me<br />
+            I&apos;m in love not because I want to<br />
+            She&apos;s become something that I got to see
+            Won&apos;t you just stick around with me<br />
             Oh and darling<br />
             I mistake intent for better days<br />
             While you mislead me in different ways<br />
-            I don't think this is how it's to end<br /><br />
+            I don&apos;t think this is how it&apos;s to end<br /><br />
             <span className="text-green-700 font-medium">[instrument - reff(2x)]</span><br /><br />
           </p>
         </div>
